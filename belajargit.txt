@@ -2,4 +2,4 @@ Belajar Git
 - Git merupakan salah satu Version Control System
 - Ada beberapa yang perlu diperhatikan
 - Git dapat dihubungkan dengan Github
-- Branch
+- Merger
